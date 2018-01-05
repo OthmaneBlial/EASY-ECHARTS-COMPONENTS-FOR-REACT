@@ -24,7 +24,7 @@ npm install easy-echarts-components-for-react --save
 
 ```js
 import React from 'react';
-import EchartsLine from './partials/EchartsLine'
+import { EchartsLine } from 'easy-echarts-components-for-react';
 
 
 class App extends React.Component {
@@ -61,7 +61,7 @@ class App extends React.Component {
 
 ```js
 import React from 'react';
-import EchartsLine from './partials/EchartsLine'
+import { EchartsPie } from 'easy-echarts-components-for-react';
 
 
 class App extends React.Component {
