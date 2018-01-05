@@ -1,0 +1,21 @@
+{
+  "name": "EASY-ECHARTS-COMPONENTS-FOR-REACT",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.17.1",
+    "echarts": "^3.8.5",
+    "element-resize-event": "^2.0.9",
+    "prop-types": "^15.6.0",
+    "react": "^16.1.1",
+    "react-addons-shallow-compare": "^15.6.2",
+    "react-dom": "^16.1.1",
+    "react-scripts": "1.0.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
