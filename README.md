@@ -128,7 +128,7 @@ seriesData | array | empty array
 
 
 Props | Type | Default Value
---- | --- | --- | ---
+---------- | ---------- | ---------
 style | object | `{ width: '100%', height: '100vh'}`
 className | string | empty string
 fontFamily | string | sans-serif
