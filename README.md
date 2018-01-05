@@ -98,9 +98,6 @@ style | object | `{ width: '100%', height: '100vh'}`
 className | string | empty string
 fontFamily | string | sans-serif
 theme | string | `#fff`
-themeOne | `#c9dbe2`
-themeTwo | `#e5edff`
-themeThree | `#f0ffe5`
 title | string | empty string
 titleFontSize | string | 15
 titlePosition | string | center
@@ -133,9 +130,6 @@ style | object | `{ width: '100%', height: '100vh'}`
 className | string | empty string
 fontFamily | string | sans-serif
 theme | string | `#fff`
-themeOne | `#c9dbe2`
-themeTwo | `#e5edff`
-themeThree | `#f0ffe5`
 title | string | empty string
 titleFontSize | string | 15
 titlePosition | string | center
