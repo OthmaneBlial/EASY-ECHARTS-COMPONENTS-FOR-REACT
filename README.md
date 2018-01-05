@@ -1,17 +1,12 @@
 # EASY ECHARTS COMPONENTS FOR REACT
 
 Easy to use ECharts components for React.
-<<<<<<< HEAD
 
 
-### [ECharts]https://github.com/ecomfe/echarts is a powerful, captivating and charming data visualization tool, way better than D3.js.
-=======
->>>>>>> ee43c4c19e4606763df6756a5ab1b463f80b4108
-
-[ECharts] https://github.com/ecomfe/echarts is a powerful, captivating and charming data visualization tool, way better than D3.js.
+[ECharts]https://github.com/ecomfe/echarts is a powerful, captivating and charming data visualization tool, way better than D3.js.
 
 
-[EASY ECHARTS COMPONENTS FOR REACT] (http://othmaneblial.github.io/easy-echarts-components-for-react/)
+[EASY ECHARTS COMPONENTS FOR REACT](http://othmaneblial.github.io/easy-echarts-components-for-react/)
 
 
 
@@ -93,24 +88,19 @@ class App extends React.Component {
 
 ```
 
-### These ECHARTS components area very customizable, because they have a lot of props to tweak
-For the bar, barStack, line, lineStack, area, and areaStack types
+# These ECHARTS components area very customizable, because they have a lot of props to tweak
+### For the bar, barStack, line, lineStack, area, and areaStack types
 
-<<<<<<< HEAD
-For the bar, barStack, line, lineStack, area, and areaStack types
-
-=======
->>>>>>> ee43c4c19e4606763df6756a5ab1b463f80b4108
 
 Props | Type | Default Value
---- | --- | --- | ---
+---------- | ---------- | ---------
 style | object | `{ width: '100%', height: '100vh'}`
 className | string | empty string
 fontFamily | string | sans-serif
-theme | string | #fff
-themeOne | #c9dbe2
-themeTwo | #e5edff
-themeThree | #f0ffe5
+theme | string | `#fff`
+themeOne | `#c9dbe2`
+themeTwo | `#e5edff`
+themeThree | `#f0ffe5`
 title | string | empty string
 titleFontSize | string | 15
 titlePosition | string | center
@@ -118,7 +108,7 @@ titleFontStyle | string | normal
 titleFontWeight | string | bold
 tooltipType | string | cross
 tooltipBackgroundColor | string | #b7aeaa
-legendColor | string | #000
+legendColor | string | `#000`
 legendFontSize | string | 11
 dataZoom | bool | true
 saveAsImage | bool | false
@@ -127,21 +117,14 @@ gridRight | string | 6%
 gridBottom | string | 14%
 gridContainLabel | bool | true
 xAxis | array | empty array
-<<<<<<< HEAD
 xAxisName | string | empty string
 xAxisNameLocation | string | middle
 xAxisNameGap | string | 32
 seriesType | string | line
-=======
-xAxisName | string | ''
-xAxisNameLocation | string | 'middle'
-xAxisNameGap | string | 32
-seriesType | string | 'line'
->>>>>>> ee43c4c19e4606763df6756a5ab1b463f80b4108
 seriesNames | array | empty array
 seriesData | array | empty array
 
-for the pie and the pie doughunt types
+### for the pie and the pie doughunt types
 
 
 Props | Type | Default Value
@@ -149,16 +132,16 @@ Props | Type | Default Value
 style | object | `{ width: '100%', height: '100vh'}`
 className | string | empty string
 fontFamily | string | sans-serif
-theme | string | #fff
-themeOne | #c9dbe2
-themeTwo | #e5edff
-themeThree | #f0ffe5
+theme | string | `#fff`
+themeOne | `#c9dbe2`
+themeTwo | `#e5edff`
+themeThree | `#f0ffe5`
 title | string | empty string
 titleFontSize | string | 15
 titlePosition | string | center
 titleFontStyle | string | normal
 titleFontWeight | string | bold
-legendColor | string | #000
+legendColor | string | `#000`
 legendFontSize | string | 11
 saveAsImage | string | false
 doughnut | string | false
