@@ -3,14 +3,12 @@
 Easy to use ECharts components for React.
 
 
-[ECharts]https://github.com/ecomfe/echarts is a powerful, captivating and charming data visualization tool, way better than D3.js.
-
-
-[EASY ECHARTS COMPONENTS FOR REACT]  (http://othmaneblial.github.io/easy-echarts-components-for-react/)
+[ECharts](https://github.com/ecomfe/echarts) is a powerful, captivating and charming data visualization tool, way better than D3.js.
 
 
 
-### [Demos](http://othmaneblial.github.io/easy-echarts-components-for-react/)
+
+### [Check out the Demos](http://othmaneblial.github.io/easy-echarts-components-for-react/)
 
 
 
@@ -97,7 +95,7 @@ Props | Type | Default Value
 style | object | `{ width: '100%', height: '100vh'}`
 className | string | empty string
 fontFamily | string | sans-serif
-theme | string | `#fff`
+theme | string | #fff
 title | string | empty string
 titleFontSize | string | 15
 titlePosition | string | center
@@ -105,7 +103,7 @@ titleFontStyle | string | normal
 titleFontWeight | string | bold
 tooltipType | string | cross
 tooltipBackgroundColor | string | #b7aeaa
-legendColor | string | `#000`
+legendColor | string | #000
 legendFontSize | string | 11
 dataZoom | bool | true
 saveAsImage | bool | false
@@ -129,13 +127,13 @@ Props | Type | Default Value
 style | object | `{ width: '100%', height: '100vh'}`
 className | string | empty string
 fontFamily | string | sans-serif
-theme | string | `#fff`
+theme | string | #fff
 title | string | empty string
 titleFontSize | string | 15
 titlePosition | string | center
 titleFontStyle | string | normal
 titleFontWeight | string | bold
-legendColor | string | `#000`
+legendColor | string | #000
 legendFontSize | string | 11
 saveAsImage | string | false
 doughnut | string | false
