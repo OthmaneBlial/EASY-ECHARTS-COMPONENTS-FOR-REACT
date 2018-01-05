@@ -86,7 +86,7 @@ class App extends React.Component {
 
 ```
 
-# These ECHARTS components area very customizable, because they have a lot of props to tweak
+## These ECHARTS components are very customizable, because they have a lot of props to tweak
 ### For the bar, barStack, line, lineStack, area, and areaStack types
 
 
