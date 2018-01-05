@@ -6,7 +6,7 @@ Easy to use ECharts components for React.
 [ECharts]https://github.com/ecomfe/echarts is a powerful, captivating and charming data visualization tool, way better than D3.js.
 
 
-[EASY ECHARTS COMPONENTS FOR REACT](http://othmaneblial.github.io/easy-echarts-components-for-react/)
+[EASY ECHARTS COMPONENTS FOR REACT]  (http://othmaneblial.github.io/easy-echarts-components-for-react/)
 
 
 
