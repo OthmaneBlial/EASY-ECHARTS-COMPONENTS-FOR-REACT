@@ -1,18 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300');
+
 .App {
-  font-family: 'Cabin Condensed', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 
 .App .big-title {
   text-align: center;
-  background: #c9dbe2;
   padding: 10px;
 }
 
-.App .big-title h1 {
+.App .big-title h1, h1 {
   color: #000;
   letter-spacing: 4px;
-  font-family: 'Cabin Condensed', sans-serif;
-  border: 5px solid #000;
+  font-family: 'Open Sans Condensed', sans-serif;
+  border: 1px solid #000;
   padding: 3px;
 }
 
@@ -31,12 +32,21 @@
 }
 
 .App .randomize {
-  min-width: 300px;
-  max-width: 600px;
-  margin: auto;
-  margin-top: 30px;
-  font-size: 33px;
-  letter-spacing: 6px;
+    position: fixed;
+    right: 0;
+    top: 15%;
+    z-index: 9999;
+    width: 100px;
+    background: #000;
+    font-size: 14px;
+    color: #c9dbe2;
+    opacity: 0.7;
+}
+
+.App .randomize:hover {
+   background: #000;
+   color: #c9dbe2;
+   opacity: 1;
 }
 
 .App .control-buttons {
