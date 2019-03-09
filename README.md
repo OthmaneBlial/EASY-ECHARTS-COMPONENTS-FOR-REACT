@@ -29,12 +29,7 @@ import { EchartsLine } from 'easy-echarts-components-for-react';
 
 class App extends React.Component {
 
-
-
-
-   render() {
-
-
+ render() {
       return (
         <EchartsLine
             style={{height: '40vh', width: '100%'}}
@@ -66,12 +61,7 @@ import { EchartsPie } from 'easy-echarts-components-for-react';
 
 class App extends React.Component {
 
-
-
-
-   render() {
-
-
+ render() {
       return (
         <EchartsPie
             style={{height: '40vh', width: '100%'}}
