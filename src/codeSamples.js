@@ -71,7 +71,7 @@ theme= 'themeThree'
 title= 'Imported Fruits'
 legend={legendData} // an array
 data={data} // an array of objects
-`
+`;
 export const pieDoughuntCode = `
 <EchartsPie
 style={{height: '40vh', width: '100%'}}
@@ -80,4 +80,4 @@ title= 'Imported Fruits'
 legend={legendData} // an array
 data={data} // an array of objects
 doughnut={true}
-`
+`;
