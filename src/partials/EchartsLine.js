@@ -8,7 +8,6 @@ class EchartsLine extends Component {
     super(props);
 
     this.state = {
-      test: "Hi",
       option: {
         backgroundColor: this.props[this.props.theme],
         title: {
